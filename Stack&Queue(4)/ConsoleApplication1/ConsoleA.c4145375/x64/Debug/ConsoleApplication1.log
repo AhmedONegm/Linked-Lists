@@ -1,0 +1,5 @@
+﻿  Queue.cpp
+C:\Users\ahmed\Desktop\C++\Stack&Queue(4)\ConsoleApplication1\Queue.cpp(50,16): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+C:\Users\ahmed\Desktop\C++\Stack&Queue(4)\ConsoleApplication1\Queue.cpp(51,16): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+Queue.obj : error LNK2005: main already defined in BinarySearchTree.obj
+C:\Users\ahmed\Desktop\C++\Stack&Queue(4)\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe : fatal error LNK1169: one or more multiply defined symbols found
